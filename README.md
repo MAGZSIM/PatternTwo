@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/f8vggvs91ahwarh8?svg=true)](https://ci.appveyor.com/project/MAGZSIM/patterntwo)
